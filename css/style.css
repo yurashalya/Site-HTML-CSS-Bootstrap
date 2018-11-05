@@ -15,13 +15,7 @@ h1, h2, h3, h4, h5 {
     color: #000
 }
 
-h3 {
-    font-weight: 400;
-}
 
-h2 {
-    text-align: center;
-}
 
 .title {
     padding-top: 100px;
@@ -31,6 +25,7 @@ h2 {
 
 .title_main {
     font-size: 32px;
+    text-align: center;
 }
 
 .title_text {
@@ -120,6 +115,10 @@ h2 {
     color: #000
 }
 
+.feature_title {
+    font-weight: 400;
+}
+
 .feature_text {
     color: #898989
 }
@@ -144,9 +143,9 @@ h2 {
     padding: 14px 0;
     margin-right:21px;
     border: 0;
-    padding-left:23px;
-    outline: none;
 }
+
+
 
 .form_btn {
     font-family: 'PT Sans', sans-serif;
@@ -160,8 +159,9 @@ h2 {
     border: 0;
     padding: 14px 0;
     cursor: pointer;
-    outline: none;
 }
+
+
 
 /* Футер */
 
